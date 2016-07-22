@@ -1,4 +1,4 @@
-package com.ssm.test.service;
+package com.ssm.tset.service;
 
 import com.ssm.test.bean.TestBean;
 

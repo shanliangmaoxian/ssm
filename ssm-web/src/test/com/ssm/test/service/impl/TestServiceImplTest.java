@@ -1,7 +1,7 @@
 package com.ssm.test.service.impl;
 
 import com.ssm.test.bean.TestBean;
-import com.ssm.test.service.TestService;
+import com.ssm.tset.service.TestService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.test.context.ContextConfiguration;
@@ -26,7 +26,7 @@ public class TestServiceImplTest {
     public void insert() throws Exception {
 
         TestBean tb = new TestBean();
-        tb.setId(22222);
+        tb.setId(333);
         this.testService.insert(tb);
     }
 
