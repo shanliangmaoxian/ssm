@@ -2,7 +2,7 @@ package com.ssm.test.service.impl;
 
 import com.ssm.test.bean.TestBean;
 import com.ssm.test.dao.TestDao;
-import com.ssm.tset.service.TestService;
+import com.ssm.test.service.TestService;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
