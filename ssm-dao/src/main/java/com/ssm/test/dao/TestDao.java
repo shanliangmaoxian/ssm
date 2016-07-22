@@ -4,7 +4,7 @@ import com.ssm.test.bean.TestBean;
 import org.springframework.stereotype.Repository;
 
 /**
- * @author saodiseng
+ * @author maoxian
  * @pachage com.ssm.test.dao.
  * @description {TODO}功能描述.
  * @date 16/7/21 下午1:04

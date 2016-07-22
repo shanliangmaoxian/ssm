@@ -3,7 +3,7 @@ package com.ssm.tset.service;
 import com.ssm.test.bean.TestBean;
 
 /**
- * @author saodiseng
+ * @author maoxian
  * @pachage com.ssm.test.service.
  * @description {TODO}功能描述.
  * @date 16/7/21 下午1:04
